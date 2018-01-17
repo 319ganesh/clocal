@@ -2,8 +2,8 @@
 
 int main(void)
 {
-int n;
-printf("enter the value of n");
+int N;
+printf("\nenter the value of N:\n");
 scanf("%d",&n);
 if(n/2==0)
 {
